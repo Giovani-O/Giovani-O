@@ -4,10 +4,10 @@
 - 🎓 I'm a bachelor in Information Systems  
 
 
-- ⚛️ I’m currently learning React and TypeScript  
+- ⚛️ I’m currently learning .NET 8 and React  
 
 
-- 🔍 I'm also interested in learning Python   
+- 🔍 I'm also interested in learning Python and AI   
 
 
 - 🎸 Fun fact: I love video games and playing musical instruments  
