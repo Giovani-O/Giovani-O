@@ -7,7 +7,7 @@
 - ⚛️ I’m currently learning .NET 8 and React  
 
 
-- 🔍 I'm also interested in learning Python and AI   
+- 🔍 Studying software software architecture (Clean Architecture, SOLID, Microservices)   
 
 
 - 🎸 Fun fact: I love video games and playing musical instruments  
