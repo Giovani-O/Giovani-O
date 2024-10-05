@@ -1,10 +1,10 @@
 ### Hi, I'm Giovani, a full-stack developer from São Paulo, Brazil  
 
 
-- 🎓 I'm a bachelor in Information Systems  
+- 🎓 I'm a bachelor in Information Systems
 
 
-- ⚛️ I’m currently learning .NET 8 and React  
+- ⚛️ I’m currently learning Node.js and React  
 
 
 - 🔍 Studying software software architecture (Clean Architecture, SOLID, Microservices)   
