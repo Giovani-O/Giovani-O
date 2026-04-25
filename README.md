@@ -23,28 +23,30 @@
 
 ## My Skill Set  
 <div>  
-<strong><p>Front End</p></strong>
-<ul>
-  <li>React</li>
-  <li>Next.js</li>
-  <li>Tanstack Query/Router</li>
-  <li>Zustand</li>
-  <li>Vite</li>
-  <li>Tailwind CSS</li>
-</ul>
-</div>  
+    <strong style="display: block; margin-bottom: 10px;">Front End</strong>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>React</li>
+      <li>Next.js</li>
+      <li>Tanstack Query/Router</li>
+      <li>Zustand</li>
+      <li>Vite</li>
+      <li>Tailwind CSS</li>
+    </ul>
+  </div>  
 
-<div>  
-<strong><p>Back End</p></strong>
-<ul>
-  <li>Node.js</li>
-  <li>Fastify</li>
-  <li>NestJS</li>
-  <li>Prisma ORM</li>
-  <li>Drizzle ORM</li>
-  <li>Vitest/Jest</li>
-</ul>
-</div>  
+  <div>  
+    <strong style="display: block; margin-bottom: 10px;">Back End</strong>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Node.js</li>
+      <li>Fastify</li>
+      <li>NestJS</li>
+      <li>Prisma ORM</li>
+      <li>Drizzle ORM</li>
+      <li>Vitest/Jest</li>
+    </ul>
+  </div>  
+
+</div>
 
 <br/>  
 
