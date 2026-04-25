@@ -24,7 +24,7 @@
 ## My Skill Set  
 <table border="0">
   <tr>
-    <td>
+    <td valign="top">
       <strong>Front End</strong>
       <ul>
         <li>React</li>
