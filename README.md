@@ -7,13 +7,12 @@
 - ⚛️ I’ve been working with software development for almost 5 years
 
 
-- 🔍 Studying software software architecture (Clean Architecture, SOLID, Microservices)   
+- 🔍 Studying software software architecture (Clean Architecture, SOLID, Microservices)
+
+<a href="https://giovani-o.github.io/portfolio/" target="_blank">Check my portfolio</a>
 
 
 <div align="left" style="margin-top: 24px">
-<a href="https://github.com/Giovani-O" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/giovani-o" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
