@@ -33,6 +33,7 @@
         <li>Zustand</li>
         <li>Vite</li>
         <li>Tailwind CSS</li>
+        <li>Vitest (tests)</li>
       </ul>
     </td>
     <td valign="top" style="padding-left: 50px;">
@@ -43,7 +44,20 @@
         <li>NestJS</li>
         <li>Prisma ORM</li>
         <li>Drizzle ORM</li>
-        <li>Vitest/Jest</li>
+        <li>Vitest/Jest (tests)</li>
+        <li>.NET (C#)</li>
+        <li>Entity Framework</li>
+        <li>xUnit (tests)</li>
+      </ul>
+    </td>
+    <td valign="top" style="padding-left: 50px;">
+      <strong>Others</strong>
+      <ul>
+        <li>Databases (SQL Server, Postgres, MongoDB)</li>
+        <li>AI (PRD, SDD, specs, plans, API integration)</li>
+        <li>Clean Architecture</li>
+        <li>SOLID principles</li>
+        <li>Domain Driven Design</li>
       </ul>
     </td>
   </tr>
