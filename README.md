@@ -7,7 +7,7 @@
 
 - 🔍 Studying software software architecture (Clean Architecture, SOLID, Microservices)
 
-- 💻 <a href="https://giovani-o.github.io/portfolio/" target="_blank">Check my portfolio</a>
+- 💻 <a href="https://giovani-o.github.io/dev-portfolio/" target="_blank">Check my portfolio</a>
 
 <br/>
 <div align="left" style="margin-top: 24px">
