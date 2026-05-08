@@ -10,7 +10,7 @@
                ░█                                                                                                
                                                                                                                  
 ```
-
+A fullstack developer from Hortolândia - SP, Brazil.
 
 - 🎓 I'm a bachelor in Information Systems
 
