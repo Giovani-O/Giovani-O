@@ -14,6 +14,8 @@ A fullstack developer from Hortolândia - SP, Brazil.
 - ⚛️ I’ve been working with software development for almost 5 years
 
 - 🔍 Studying software software architecture (Clean Architecture, SOLID, Microservices)
+  
+- 🏗️ I deliver solutions, not just code
 
 - 💻 <a href="https://giovani-o.github.io/dev-portfolio/" target="_blank">Check my portfolio</a>
 
